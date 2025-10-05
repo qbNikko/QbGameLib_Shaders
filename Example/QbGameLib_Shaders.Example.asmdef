@@ -1,0 +1,7 @@
+﻿{
+  "name": "QbGameLib_Shaders.Example",
+  "rootNamespace": "QbGameLib_Shaders",
+  "references": [
+    "QbGameLib_Shaders"
+  ]
+}
