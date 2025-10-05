@@ -1,0 +1,17 @@
+{
+  "name": "com.qbnikko.qbgamelib_shaders",
+  "version": "0.0.1",
+  "displayName": "Набор шейдеров для unity",
+  "description": "Набор шейдеров",
+  "unity": "6000.2",
+  "documentationUrl": "https://github.com/qbNikko/QbGameLib_Shaders#m/",
+  "changelogUrl": "https://github.com/qbNikko/QbGameLib_Shaders/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/qbNikko/QbGameLib_Shaders/blob/main/LICENSE.md",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Николай Жульков",
+    "email": "qbNikko@yandex.ru",
+    "url": "https://github.com/qbNikko"
+  }
+}
