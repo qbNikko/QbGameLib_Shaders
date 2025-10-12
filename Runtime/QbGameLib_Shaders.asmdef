@@ -1,4 +1,9 @@
 ﻿{
   "name": "QbGameLib_Shaders",
-  "rootNamespace": "QbGameLib_Shaders"
+  "rootNamespace": "QbGameLib_Shaders",
+  "references": [
+    "QbGameLib_Utils",
+    "Unity.RenderPipelines.Universal.Runtime",
+    "Unity.RenderPipelines.Core.Runtime"
+  ]
 }
